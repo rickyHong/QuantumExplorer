@@ -1,4 +1,4 @@
-# QuantumExplorer
+# QuantumExplorer, BigStep 0.1
 
 A quantum reinforcement learning framework for exploring new ideas, based on PyTorch and PennyLane.
 
